@@ -1,0 +1,411 @@
+1610318619528	geckodriver	INFO	Listening on 127.0.0.1:58761
+1610318622552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileRHZqSe"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318628587	Marionette	INFO	Listening on port 58779
+1610318628885	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610318799104	Marionette	INFO	Stopped listening on port 58779
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofilekfB98z"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318778213	Marionette	INFO	Listening on port 58968
+1610318778662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318795823	Marionette	INFO	Stopped listening on port 58968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610318810607	geckodriver	INFO	Listening on 127.0.0.1:59063
+1610318813639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileBJgYIG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610318818034	Marionette	INFO	Listening on port 59073
+1610318818438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610318867160	Marionette	INFO	Stopped listening on port 59073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610319133577	geckodriver	INFO	Listening on 127.0.0.1:59284
+1610319135819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileTdaZ3y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319141363	Marionette	INFO	Listening on port 59293
+1610319141826	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610319332903	Marionette	INFO	Stopped listening on port 59293
+1610319632388	geckodriver	INFO	Listening on 127.0.0.1:59540
+1610319635119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofilewj9c2x"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319640302	Marionette	INFO	Listening on port 59550
+1610319640666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610320292593	Marionette	INFO	Stopped listening on port 59550
+0319794365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofile7D61mc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610319799117	Marionette	INFO	Listening on port 59710
+1610319799559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610320292978	Marionette	INFO	Stopped listening on port 59710
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofilehtlKeg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610320214067	Marionette	INFO	Listening on port 60003
+1610320214597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610320285546	Marionette	INFO	Stopped listening on port 60003
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610320307233	geckodriver	INFO	Listening on 127.0.0.1:60114
+1610320310338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofilePZmbuk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610320316623	Marionette	INFO	Listening on port 60122
+1610320316679	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610321082607	Marionette	INFO	Stopped listening on port 60122
+1610320384386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/page-style.js:573:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 885))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:885:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1641:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/page-style.js:370:24\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1455:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1526:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1641:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:573:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:370:24)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:617:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:96:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:604:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+1610321083717	Marionette	INFO	Stopped listening on port 60207
+0321013880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileyFWiPE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610321020275	Marionette	INFO	Listening on port 60516
+1610321020847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610321084386	Marionette	INFO	Stopped listening on port 60516
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610321087286	geckodriver	INFO	Listening on 127.0.0.1:60598
+1610321090334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofilegLSqyF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610321094223	Marionette	INFO	Listening on port 60606
+1610321094539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610321171156	Marionette	INFO	Stopped listening on port 60606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610321637915	geckodriver	INFO	Listening on 127.0.0.1:60905
+1610321640683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileG01RN5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610321645796	Marionette	INFO	Listening on port 60913
+1610321646873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610321805199	Marionette	INFO	Stopped listening on port 60913
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileyWRvu7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610321777375	Marionette	INFO	Listening on port 61032
+1610321777628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610321800408	Marionette	INFO	Stopped listening on port 61032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610321875353	geckodriver	INFO	Listening on 127.0.0.1:61109
+1610321878391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileOeOur0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610321884287	Marionette	INFO	Listening on port 61117
+1610321916908	Marionette	INFO	Stopped listening on port 61117
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileBqxT3E"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610321894022	Marionette	INFO	Listening on port 61174
+1610321894184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610321919250	Marionette	INFO	Stopped listening on port 61174
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610321928012	geckodriver	INFO	Listening on 127.0.0.1:61244
+1610321931060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofiles89Akt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610321934839	Marionette	INFO	Listening on port 61254
+1610321935030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+1610322086658	Marionette	INFO	Stopped listening on port 61254
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileZTYROV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610322087782	Marionette	INFO	Listening on port 61369
+1610322088256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+1610322416916	Marionette	INFO	Stopped listening on port 61369
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610322419220	geckodriver	INFO	Listening on 127.0.0.1:61517
+1610322422292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofile6jZKoa"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610322427217	Marionette	INFO	Listening on port 61525
+1610322427699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610322695828	Marionette	INFO	Stopped listening on port 61525
+1610322699375	geckodriver	INFO	Listening on 127.0.0.1:61752
+1610322702427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofilepEu2G6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610322709279	Marionette	INFO	Listening on port 61761
+1610322710581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610322972888	Marionette	INFO	Stopped listening on port 61761
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofilePmxAEx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610322975604	Marionette	INFO	Listening on port 62038
+1610322976130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+JavaScript error: https://twitter.com/, line 97: ChunkLoadError: Loading chunk 171 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.cf0f1325.js)
+1610323084364	Marionette	INFO	Stopped listening on port 62038
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofilekM4tmy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323084324	Marionette	INFO	Listening on port 62223
+1610323084448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323125637	Marionette	INFO	Stopped listening on port 62223
+1610323153251	geckodriver	INFO	Listening on 127.0.0.1:62357
+1610323156291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofile5Qo0Ih"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323160573	Marionette	INFO	Listening on port 62367
+1610323160961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610323192334	Marionette	INFO	Stopped listening on port 62361610323192965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\PROGRA~1\\KMSpico\\temp\\rust_mozprofileIT8hl0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610323197024	Marionette	INFO	Listening on port 62459
+1610323197171	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16432, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 16432, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610323236555	Marionette	INFO	Stopped listening on port 62459
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
