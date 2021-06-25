@@ -1,2 +1,4 @@
 # twitter-bot
-A twitter bot created using selenium to get auto likes on twitter.
+
+This project is a twitter bot who put likes to tweets related to pre defined topics. twitter bot is developed using `python` and `selenium` library.
+
